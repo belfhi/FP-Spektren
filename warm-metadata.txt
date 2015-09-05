@@ -1,0 +1,11 @@
+            Firmware:   b'USB2000+ 3.00.4 '
+        Serialnumber:   b'USB2+H15728'
+                user:   b'Student'
+           timestamp:   b'1072913725328'
+                date:   Wed Dec 31 23:35:25 2003
+      numberOfPixels:   2048
+        maxIntensity:   65535.0
+     integrationTime:   70000.0
+         boxcarWidth:   0
+      scansToAverage:   1
+           saturated:   b'false'
